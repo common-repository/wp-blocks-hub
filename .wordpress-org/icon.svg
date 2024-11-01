@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-256x256</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="12.195122%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#5B4FBF" offset="0%"></stop>
+            <stop stop-color="#D28ADF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="87.804878%" y1="50%" x2="-3.67240578%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#15B29C" offset="0%"></stop>
+            <stop stop-color="#88EFCF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon-256x256" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-3" fill="#FFFFFF" opacity="0" x="0" y="0" width="256" height="256"></rect>
+        <g id="Logo" transform="translate(46.000000, 46.000000)" fill-rule="nonzero">
+            <path d="M41,41 L164,41 C164,63.6436748 145.643675,82 123,82 L0,82 C-2.77305038e-15,59.3563252 18.3563253,41 41,41 Z M41,123 L164,123 C164,145.643675 145.643675,164 123,164 L0,164 C-2.77305038e-15,141.356325 18.3563253,123 41,123 Z" id="Violet" fill="url(#linearGradient-1)"></path>
+            <path d="M0,0 L123,0 C145.643675,-4.15957556e-15 164,18.3563253 164,41 L41,41 C18.3563253,41 2.77305038e-15,22.6436748 0,0 Z M0,82 L123,82 C145.643675,82 164,100.356325 164,123 L41,123 C18.3563253,123 2.77305038e-15,104.643675 0,82 Z" id="Green" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>

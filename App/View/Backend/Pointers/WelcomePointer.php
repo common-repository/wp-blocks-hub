@@ -1,0 +1,2 @@
+<h3><?php _e( 'WP Blocks Hub', 'wp-blocks-hub'); ?></h3>
+<p><?php printf( __( 'Hey, thank you for activating WP Blocks Hub plugin! Check <a href="%s">settings</a> here.', 'wp-blocks-hub'), admin_url('admin.php?page=wp-blocks-hub-settings') ); ?></p>

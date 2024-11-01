@@ -1,0 +1,29 @@
+/*------------------------------------------------------------------
+[Custom post types styles]
+
+1. ADmin UI tweaks
+-------------------------------------------------------------------*/
+body.post-type-portfolio_post,
+body.post-type-testimonial_post,
+body.post-type-benefit_post,
+body.post-type-person_post {
+	#thumbnail {
+		width: 90px;
+	}
+	td.column-thumbnail {
+		text-align: center;
+		height: 72px;
+		vertical-align: middle;
+		img {
+			max-width: 100%;
+			height: auto;
+		}
+	}
+	td.column-price {
+		white-space: nowrap;
+	}
+	.attachment-thumbnail {
+		width: 150px;
+		height: 150px;
+	}
+}

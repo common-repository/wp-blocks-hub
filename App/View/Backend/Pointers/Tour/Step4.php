@@ -1,0 +1,2 @@
+<h3><?php _e( 'Style your blocks', 'wp-blocks-hub'); ?></h3>
+<p><?php _e( 'Check style settings to fit your design. All blocks use global styles from that panel, and you do not need to style each block every time!', 'wp-blocks-hub'); ?></p>

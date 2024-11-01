@@ -1,0 +1,6 @@
+{
+    "require": {
+        "scssphp/scssphp": "^1.0",
+        "abraham/twitteroauth": "^1.0"
+    }
+}

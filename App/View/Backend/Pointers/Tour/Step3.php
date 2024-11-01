@@ -1,0 +1,2 @@
+<h3><?php _e( 'My blocks', 'wp-blocks-hub'); ?></h3>
+<p><?php _e( 'All downloaded blocks (active and inactive) can be found on My Blocks screen, where you can control them (activate, deactivate, remove, copy shortcode etc).', 'wp-blocks-hub'); ?></p>
